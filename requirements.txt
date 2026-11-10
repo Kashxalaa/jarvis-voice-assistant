@@ -1,0 +1,15 @@
+google-genai
+python-dotenv
+pytest
+discord.py
+pywin32; sys_platform == "win32"
+psycopg[binary]
+pgvector
+requests
+yt-dlp
+feedparser
+tzdata
+python-dateutil
+groq
+claude-agent-sdk
+send2trash
